@@ -1,2 +1,2 @@
 # datasciencecoursera
-Blah blah blah
+This repository is just for Display.
